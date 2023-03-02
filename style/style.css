@@ -399,6 +399,10 @@
 
 }
 
+/* about-section end */
+
+/* statistics section start */
+
 #statistics{
     background-image: url(../image/code-academy-bg.jpeg);
     background-attachment: fixed;
@@ -469,3 +473,7 @@
     line-height: 1em;
     padding: 20px;
 }
+
+/* statistics section end */
+
+/* main section end */
